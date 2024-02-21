@@ -1,6 +1,6 @@
 <img align="center" alt="banner" src="bannergh.png">
 <h3 align="center">Junior Full-Stack Developer</h3>
-<p align="center"> ------------ </p>
+<p align="center"> <---> </p>
 
 - 🏗️ I enjoy problem-solving, creating and building web apps
 - 🌱 I love to learn new things and always improve my skills
