@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer</h3>
 <p align="center"> ------------ </p>
 
-- 🏗️ I enjoy creating and building web apps
+- 🏗️ I enjoy problem-solving, creating and building web apps
 - 🌱 I love to learn new things and always improve my skills
 - 🧑🏼‍🍳 Fun fact - **I was a chef for 15 years and owned 3 restaurants!**
 - 🍲 Let's cook some creative projects together!
