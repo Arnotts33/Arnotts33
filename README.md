@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="banner.png">
+<img align="center" alt="banner" src="bannergh.png">
 <h3 align="center">Junior Full-Stack Developer</h3>
 <p align="center"> ------------ </p>
 
