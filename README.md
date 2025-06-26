@@ -24,7 +24,7 @@
   
 <a href="https://linkedin.com/in/arnaudlht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:arnaudlht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://arnaudlahaut.com"><img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge"></a>
+<a href="https://arnaudlahaut.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Arnotts33}/count.svg">
