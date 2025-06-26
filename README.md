@@ -8,7 +8,7 @@
 - 🍲 Let's cook some creative projects together!
 
 <h3 align="left">Languages and Tools:</h3>
-<div style='background:#fdfdfd;'>
+<div style='background-color:#fdfdfd;'>
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
