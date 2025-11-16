@@ -1,5 +1,5 @@
 <img align="center" alt="banner" src="ghbanner.png">
-<h3 align="center">Junior Full-Stack Developer</h3>
+<h3 align="center">Creative Web Dev</h3>
 <p align="center"> <---> </p>
 
 - 🏗️ I enjoy problem-solving, creating and building web apps
